@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-header{
+    background-color: #264653;
+}
+.main{
+    background-color: #E5E5E5;
+}
+.text-light-custom{
+    color: #FFFFFF;
+}
+.text-custom-p{
+    color: #E0E0E0;
+}
+.btn-bg-color{
+    background-color: rgba(231, 111, 81, 1);
+}
+.custom-color-orange{
+    color: rgba(231, 111, 81, 1);
+}
+.custom-border{
+    border-bottom: 2px solid rgba(231, 111, 81, 1);
+    padding: 0 0 4px; 
+}
+.img-bnw {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  }
+  .text-gray{
+    color: #6C6C6C;
+  }
+  .text-info-custom{
+      color: #23A6F0;
+  }
+  .text-dark-custom{
+      color: #252B42;
+  }
+  .form-bg{
+      background-color: rgb(253, 249, 241);
+  }
+  
